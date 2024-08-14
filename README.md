@@ -1,5 +1,5 @@
-# Demonstração do Website
+## Demo - Curriculum :open_file_folder:
 
-URL: https://hebergustavo.github.io/Website-Curriculum/
+URL: https://hebergustavo.github.io/curriculum-website/
 
-![image](https://github.com/heberGustavo/Website-Curriculum/assets/44476616/ae516877-d454-4d01-bac9-02698c20c9d6)
+![image](https://github.com/user-attachments/assets/ac9ac9fc-baaa-47ad-a67c-623702545a1d)
